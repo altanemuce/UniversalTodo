@@ -1,6 +1,7 @@
 # TodoList Projesi
 
-* .NetCore 5 ile geliştirildi.
+* API .Net 7 ile yazıldı.
+* .NetCore 5 MVC ile geliştirildi.
 * Frontend'de .NetCore MVC kullanıldı.
 * Backend'de Katmanlı Mimari kullanıldı.
 * İş katmanında Result yapısı kullanıldı.
